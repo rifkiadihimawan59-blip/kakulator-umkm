@@ -20,4 +20,3 @@ function hitungKeuntungan() {
 
     document.getElementById('hasil').classList.remove('hidden');
 }
-}
